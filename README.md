@@ -1,5 +1,7 @@
 # Real-Time Exercise Form Assessment Using Adaptive Pose
 
+
+Real-time exercise form assessment using adaptive pose-based joint angle analysis under unconstrained environments.
 This project implements a system for real-time exercise form assessment using adaptive pose estimation.
 
 ## Project Structure
